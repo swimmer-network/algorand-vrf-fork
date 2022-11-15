@@ -1,0 +1,3 @@
+[submodule "crypto/libsodium-fork"]
+	path = crypto/libsodium-fork
+	url = git@github.com:algorand/libsodium.git
